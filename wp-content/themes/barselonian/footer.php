@@ -7,9 +7,20 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package barselonian
+ * @package space-web
  */
 
 ?>
+<footer class="footer">
+
+</footer>
+
+</div>
+
 <?php wp_footer(); ?>
+
+
+
 </body>
+
+</html>

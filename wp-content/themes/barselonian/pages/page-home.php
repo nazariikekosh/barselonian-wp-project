@@ -17,7 +17,9 @@
 
 get_header();
 
+?>
+<?php get_template_part('template-parts/home/section-hero'); ?>
+<?php get_template_part('template-parts/home/section-page_description'); ?>
 
-echo '<h1>Welcome to the Home Page</h1>';
-
+<?php
 get_footer();
