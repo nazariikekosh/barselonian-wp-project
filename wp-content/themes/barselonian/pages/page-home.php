@@ -20,6 +20,7 @@ get_header();
 ?>
 <?php get_template_part('template-parts/home/section-hero'); ?>
 <?php get_template_part('template-parts/home/section-page_description'); ?>
+<?php get_template_part('template-parts/home/section-page_title'); ?>
 
 <?php
 get_footer();
