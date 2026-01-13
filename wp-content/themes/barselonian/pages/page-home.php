@@ -21,6 +21,8 @@ get_header();
 <?php get_template_part('template-parts/home/section-hero'); ?>
 <?php get_template_part('template-parts/home/section-page_description'); ?>
 <?php get_template_part('template-parts/home/section-page_title'); ?>
+<?php get_template_part('template-parts/home/section-travel_content'); ?>
+<?php get_template_part('template-parts/home/section-contact_form'); ?>
 
 <?php
 get_footer();
